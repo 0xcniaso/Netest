@@ -1,2 +1,6 @@
 # Netest
-Un petit script batch a exécuter sur la machine cible pour obtenir des informations sur le reseaux local
+
+**Simple batch script for pentesting**
+## Usage
+
+Simply execute this script on the target machine to discover informations quickly
